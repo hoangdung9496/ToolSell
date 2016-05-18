@@ -2,11 +2,11 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>1.0.0.0</version> 
-        <url>https://updateApp.somee.com//bin/Debug/TestApp.exe</url> 
+        <url>https://rawgit.com/hoangdung9496/ToolSell/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <md5>0128d0626aaed09ae6f66c0bd85c80d3</md5>
         <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        1. dm no.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
