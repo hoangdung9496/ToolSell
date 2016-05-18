@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>1.0.0.0</version> 
+        <version>2.0.0.0</version> 
         <url>https://rawgit.com/hoangdung9496/ToolSell/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>0128d0626aaed09ae6f66c0bd85c80d3</md5>
