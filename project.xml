@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>1.0.1.2</version> 
-        <url>https://rawgit.com/hoangdung9496/ToolSell/master/TestApp.exe</url> 
+        <url>https://rawgit.com/hoangdung9496/ToolSell/master/appfb.exe</url> 
         <fileName>appfb.exe</fileName> 
         <md5>08d644fa16bcf0375f31251731902ec8</md5>
         <description>Update: 06/19/2014:
