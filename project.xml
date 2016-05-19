@@ -6,11 +6,8 @@
         <fileName>TestApp.exe</fileName> 
         <md5>0128d0626aaed09ae6f66c0bd85c80d3</md5>
         <description>Update: 06/19/2014:
-<<<<<<< HEAD
-        1.cc.</description> 
-=======
-        1. dm no.</description> 
->>>>>>> origin/master
+        1. dm kaka.</description> 
+        <launchArgs></launchArgs> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
