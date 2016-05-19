@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>2.0.0.0</version> 
+        <version>1.0.1.2</version> 
         <url>https://rawgit.com/hoangdung9496/ToolSell/master/TestApp.exe</url> 
-        <fileName>TestApp.exe</fileName> 
-        <md5>d840c78a2a883615a1fe83efbfeeacb3</md5>
+        <fileName>appfb.exe</fileName> 
+        <md5>08d644fa16bcf0375f31251731902ec8</md5>
         <description>Update: 06/19/2014:
-        1. dm kaka.</description> 
+        1. Cap nhat 1 so cai moi.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
